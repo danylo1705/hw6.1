@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.navig{
+    display: flex;
+    min-height: 150px;
+    padding-left: 100px;
+    flex-direction: row;
+
+}
+.navig img{
+    max-height: 100px;
+    max-width: 100px;
+    
+    
+      
+    
+}
+header{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+li {
+    list-style-type: none;
+    padding-left: 50px;
+    
+
+}
+.navig ul{
+    display: flex;
+    flex-flow: row;
+    padding-top: 40px;
+    padding-left: 800px; 
+    
+    
+    
+}
+ .color{
+  color: blue;
+}
+header{
+    max-height: 700px;
+   
+}
+.about{
+    display: flex;
+    margin-left: 300px;
+    margin-top:100px;
+
+}
+.about img{
+    max-width: 500px;
+    max-height: 300px;
+}
+.text1{
+    margin-left: 100px;
+}
+.text1 p{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.button1{
+    
+    margin-top: 50px;
+    
+}
+.career{
+    display: flex;
+    margin-top: 100px;   
+    flex-direction: column; 
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+   
+}
+.social1{
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: rgb(69, 69, 241); 
+    margin-top: 100px;
+
+  
+}
+.social1 a{
+    color: white;
+}
+.inst img{
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 100px;
+}
+.twitter img{
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 100px;
+}
+.steam img{
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 100px;
+}
+.skills{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    
+    
+}
+.stats{
+   
+   
+    max-height: 300px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.skills img {
+    
+    max-width: 800px;
+    max-height: 500px;
+    align-self: flex-end;
+    margin-left: 200px;
+    
+
+}
+.progressbar1{
+    margin-top: 10px;
+}
+.progressbar2{
+    margin-top: 10px;
+}
+.progressbar3{
+    margin-top: 10px;
+}
+.achieve{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.mvp{
+    margin-left: 400px;
+    margin-top: 80px;
+
+}
+.mvp h2{
+    margin-left: 100px;
+}
+.mvp li{
+    margin-top: 10px;
+}
+.achieve img {
+    
+    width: 500px;
+    height: 333px;
+    align-self: flex-end;
+    margin-left: 135px;
+}
+.gallery{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+    
+  
+    
+    
+}
+.gallery img{
+    max-width: 300px;
+    max-height: 300px;
+    border: black solid 3px;
+    border-radius: 50px;
+    
+    
+}
+.contact{
+    display: flex;
+    margin-top: 100px;
+    flex-direction: column;
+    background-color: silver;
+    align-items: center;
+    
+}
+.contact h2{
+margin-top: 30px;
+}
+.txt p{
+    background-color: white;
+    color: #5F5D5D;
+    height: 50px;
+    width: 225px;
+    margin-top: 20px;
+}
+.contact2{
+    margin-bottom: 20px;
+}
+.coment{
+    background-color: white;
+    color: #5F5D5D;
+    height: 100px;
+    width: 500px;
+    margin-top: 20px;
+}
+.social2{
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: rgb(69, 69, 241); 
+    
+
+  
+}
+.social2 a{
+    color: white;
+}
+.inst2 img{
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.steam img{
+    margin-top: 10px;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+
+
+    
